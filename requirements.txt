@@ -1,0 +1,16 @@
+python-telegram-bot>=20.0
+aiogram>=3.0
+pytesseract
+opencv-python
+pandas
+openpyxl
+Pillow
+numpy
+
+iftg
+
+torch
+torchvision
+ultralytics
+easyocr
+transformers
