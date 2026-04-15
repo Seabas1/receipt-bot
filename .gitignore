@@ -10,11 +10,12 @@ __pycache__/
 .Python
 
 dataset/
-models/*.pt
-models/*.pth
-data/real/*.jpg
-data/real/*.png
+models/
+data/real/
+data/synthetic/
 *.h5
+
+fonts/
 
 *.log
 *.tmp
